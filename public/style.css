@@ -1,0 +1,44 @@
+body {
+  background-color: #353839;
+  color: #fdfdfd;
+}
+
+h1 {
+  text-align: center;
+}
+
+
+img {
+  display: block;
+  margin: auto;
+}
+
+.border {
+  border-style: inset;
+  border-width: 1px;
+  margin: 10px;
+}
+
+.listWrapper li {
+  cursor: pointer;
+}
+
+#sampleui {
+  max-width: 450px;
+  margin-left: 5%;
+  height: 100%;
+}
+
+#sampleposting {
+  max-width: 450px;
+  text-align: center;
+  margin-left: 5%;
+}
+
+#userstories {
+  margin-left: 5%;
+}
+
+form {
+  padding: 5px;
+}
